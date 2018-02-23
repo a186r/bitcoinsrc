@@ -121,8 +121,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="bindtest.cpp" />
+    <ClCompile Include="chronotest.cpp" />
     <ClCompile Include="day01.cpp" />
-    <ClCompile Include="boost01.cpp" />
+    <ClCompile Include="signals2test.cpp" />
+    <ClCompile Include="threadtest.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

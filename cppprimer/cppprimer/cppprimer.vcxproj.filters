@@ -18,7 +18,16 @@
     <ClCompile Include="day01.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="boost01.cpp">
+    <ClCompile Include="bindtest.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="signals2test.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="threadtest.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="chronotest.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
